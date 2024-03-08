@@ -1,0 +1,28 @@
+.nave{
+    border: 5px solid rgb(226, 223, 195);
+    display: flex;
+    background-color: rgb(216, 206, 195);
+}
+.uli{
+    display: flex;
+    justify-content:space-around;   
+    flex: 1;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    size: 7px;
+}
+a{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+li{
+    font-family: "Shadows Into Light";
+    color:rgb(82, 73, 29);
+}
+
+li:hover{
+    color:rgb(143, 124, 31);
+}
