@@ -26,3 +26,7 @@ li{
 li:hover{
     color:rgb(143, 124, 31);
 }
+
+.icon{
+    height: 50px;
+}
